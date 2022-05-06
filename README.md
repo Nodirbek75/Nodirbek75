@@ -28,6 +28,9 @@ Quick Intro:
 [![React Native Badge](https://img.shields.io/badge/-React_Native-7c00a6?style=for-the-badge&labelColor=black&logo=react&logoColor=7c00a6)](#)
 [![Nextjs Badge](https://img.shields.io/badge/-Next.js-990329?style=for-the-badge&labelColor=black&logo=next.js&logoColor=990329)](#)
 
+#### Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nodirbek75&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### Github Stats
-![Nodirbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=nodirbek75&show_icons=true&theme=radical)
+![Nodirbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nodirbek75&show_icons=true&theme=synthwave&count_private=true)
