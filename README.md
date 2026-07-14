@@ -1,26 +1,29 @@
-## Hi I'm Nodirbek <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi, I'm Nodirbek 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foutranker%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+Senior React Native Engineer with 5+ years of experience building production mobile applications for iOS and Android.
 
-I'm Nodirbek, a Frontend Developer who specializes in creating fast, smooth, and responsive websites and mobile apps.
+I specialize in:
 
-:mailbox: Reach me out!
+• React Native
+• TypeScript
+• GraphQL
+• Firebase
+• Fintech & Bitcoin
+• Lightning Network
+• Native Mobile Development
 
-[![Web Badge](https://img.shields.io/badge/-nodirbek.com-96039e?style=flat&labelColor=96039e&logo=norco&logoColor=white&link=https://nodirbek.com/)](https://nodirbek.com/)  
-[![Linkedin Badge](https://img.shields.io/badge/-Nodirbek-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nodirbek75/)  
-[![Mail Badge](https://img.shields.io/badge/-nodirbek7077@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nodirbek7077@gmail.com)
+## What I'm working on
 
-### My current go-to stack:
+- 📱 Cross-platform mobile applications
+- ⚡ Bitcoin & Lightning Network integrations
+- 💳 Fintech payment solutions
+- 🚀 React Native architecture & performance
 
-<!-- TODO: Make technologies links take you to repositories -->
-[![JavaScript Badge](https://img.shields.io/badge/-javaScript-f7df1e?style=for-the-badge&labelColor=black&logo=javascript&logoColor=f7df1e)](#)  
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)  
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  
-[![React Native Badge](https://img.shields.io/badge/-React_Native-7c00a6?style=for-the-badge&labelColor=black&logo=react&logoColor=7c00a6)](#)  
-[![Nextjs Badge](https://img.shields.io/badge/-Next.js-990329?style=for-the-badge&labelColor=black&logo=next.js&logoColor=990329)](#)
+## Tech Stack
 
-#### Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nodirbek75&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+React Native • TypeScript • React • GraphQL • Apollo Client • Firebase • Redux • Node.js • Frappe • ERPNext
 
-#### Github Stats
-![Nodirbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nodirbek75&show_icons=true&theme=synthwave&count_private=true)
+## Connect
+
+- LinkedIn[linkedin.com/in/nodirbek75]
+- Email[nodirbek7077@gmail.com]
