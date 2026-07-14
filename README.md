@@ -25,5 +25,5 @@ React Native • TypeScript • React • GraphQL • Apollo Client • Firebase
 
 ## Connect
 
-- LinkedIn[linkedin.com/in/nodirbek75]
-- Email[nodirbek7077@gmail.com]
+- LinkedIn: linkedin.com/in/nodirbek75
+- Email: nodirbek7077@gmail.com
